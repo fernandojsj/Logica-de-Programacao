@@ -1,4 +1,4 @@
-# Udemy | Portugol
+# Udemy | Lógica de Programação
 
 Diversos exercícios feito no Visual G aprendidos no curso de Lógica de Programação
 

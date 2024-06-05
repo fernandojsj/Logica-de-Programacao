@@ -2,7 +2,7 @@
 
 Diversos exercícios feito no Visual G aprendidos no curso de Lógica de Programação
 
-Aula de portugol [Udemy] (https://www.udemy.com/course/curso-algoritmos-logica-de-programacao/?couponCode=2021PM25)
+Aula de portugol [Udemy](https://www.udemy.com/course/curso-algoritmos-logica-de-programacao/?couponCode=2021PM25)
 
 ## Material de Apoio📚
 - [Estrutura Condicional](https://drive.google.com/file/d/1cW7ouPBVql9tsby8R8-GUoe6fOqgfgr9/view?usp=drive_link)

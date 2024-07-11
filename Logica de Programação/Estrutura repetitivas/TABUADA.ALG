@@ -1,30 +1,19 @@
 Algoritmo "tabuada"
 
-
 Var
 
-   nota1, nota2, media : real
+   N, i, resultado : inteiro
 
 Inicio
 
-   escreva("Digite a primeira nota:")
-   leia(nota1)
-   
-   enquanto (nota1 < 0) ou (nota1 > 10) faca
-       escreva("Valor invalido! Tente novamente:")
-       leia(nota1)
-   fimenquanto
-   
-   escreva("Digite a segunda nota:")
-   leia(nota2)
+      escreva("Deseja a tabuada para qual valor?")
+      leia(N)
+      
+      para i de 1 ate 10 faca
+      
+           resultado <- N * i
+           escreval(N, " x", i, " = ", resultado)
+      
+      fimpara
 
-   enquanto (nota2 < 0) ou (nota2 > 10) faca
-       escreva("Valor invalido! Tente novamente:")
-       leia(nota2)
-   fimenquanto
-
-   media <- (nota1 + nota2) / 2
-
-   escreva("MÉDIA: ", media:2:2)
-   
-   Fimalgoritmo
+Fimalgoritmo

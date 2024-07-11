@@ -6,7 +6,7 @@ Var
    
 Inicio
 
-      escreva("Digite um numero inteiro. Lembrando que digitando "0", encerrará o programa")
+      escreva("Digite um numero inteiro.")
       leia(x)
       
       enquanto x <> 0 faca
